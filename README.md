@@ -1,1 +1,2 @@
-# BISOFT-22-TareaBackEnd
+# java-spring
+Proyecto spring base para cursos de proyecto
